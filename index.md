@@ -4,7 +4,7 @@
 
 ## SALONS DES NOUVELLES TECHNOLOGIES POUR HANDICAPÉS
 Pusieurs salon et conventions des nouvelles technologie posssèdent une sections spécifiques aux handicaps.
-- [Le salon handica](http://www.handica.com/handica_lyon/lyon/fr/265-handica_lyon.html)
+-
 -
 
 
