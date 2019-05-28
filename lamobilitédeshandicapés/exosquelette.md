@@ -8,7 +8,7 @@
 
 ## LES TECNHNOLOGIES EXISTANTES
 
-- [Les exosquelettes](exosquelette.md)
+- **_Les exosquelettes_**
 - [Les prothèses](prothèse.md)
 - [Les fauteuils roulants](fauteuilroulant.md)
 - [Les cannes connectées](canneconnectée.md)
