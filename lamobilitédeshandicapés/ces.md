@@ -3,7 +3,7 @@
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
 * **_Le CES à Las Vegas_**
 * [Le salon Handica](handica.md) 
-## LES TECNHNOLOGIES EXISTANTES
+## LES TECHNOLOGIES EXISTANTES
 ### 1. Les exosquelettes 
 - [Aujourd'hui](exoprésent.md)
 - [Projet BCI](BCI.md)
