@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------
 
-Le CES est un salon se déroulant à Las Vegas qui est composé des nouvelles innovations électroniques, robotiques et d'intelligences artificielles. Parmis elles, un coin est réserver aux technologies pour les handicapés.
+Le CES est un salon se déroulant à Las Vegas qui est composé des nouvelles innovations électroniques, robotiques et d'intelligences artificielles. Parmis elles, un coin est réservé aux technologies pour les handicapés.
 
 <br/>
 
