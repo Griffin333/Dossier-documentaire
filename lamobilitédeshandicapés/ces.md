@@ -1,18 +1,16 @@
-# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES
-
-## [INTRODUCTION](index.md) 
-
+# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
+## INTRODUCTION  
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
 * **_Le CES à Las Vegas_**
-* [Le salon Handica](handica.md)
-
+* [Le salon Handica](handica.md) 
 ## LES TECNHNOLOGIES EXISTANTES
-
-- [Les exosquelettes](exosquelette.md)
-- [Les prothèses](prothèse.md)
-- [Les fauteuils roulants](fauteuilroulant.md)
-- [Les cannes connectées](canneconnectée.md)
-- [Véhicules pour handicapés](véhicules.md)
+### 1. Les exosquelettes 
+- [Aujourd'hui](exoprésent.md)
+- [Projet BCI](BCI.md)
+### 2. Les prothèses
+### 3. Les fauteuils roulants
+### 4. Les cannes connectées
+### 5. Véhicules pour handicapés
 
 
 
