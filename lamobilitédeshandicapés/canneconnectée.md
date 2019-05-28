@@ -11,7 +11,7 @@
 - [Les exosquelettes](exosquelette.md)
 - [Les prothèses](prothèse.md)
 - [Les fauteuils roulants](fauteuilroulant.md)
-- **_[Les cannes connectées]_**
+- **_Les cannes connectées_**
 - [Véhicules pour handicapés](véhicules.md)
 
 
