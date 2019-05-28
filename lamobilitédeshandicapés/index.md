@@ -12,23 +12,23 @@
 
 ## LES TECNHNOLOGIES EXISTANTES
 
-### Les exosquelettes
+*### Les exosquelettes
 1. [Aujourd'hui](exoprésent.md)
 2. [Projet BCI](BCI.md)
 
 <br/>
 
-### Les prothèses
+*### Les prothèses
 
 <br/>
 
-### Les fauteuils roulants
+*### Les fauteuils roulants
 
 <br/>
 
-### Les cannes connectées
+*### Les cannes connectées
 
 <br/>
 
-### Véhicules pour handicapés
+*### Véhicules pour handicapés
 
