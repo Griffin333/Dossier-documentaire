@@ -1,5 +1,4 @@
 # INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES
-========================================================
 
 ## INTRODUCTION
 
