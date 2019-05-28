@@ -1,11 +1,19 @@
 # INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES
 
-## INTRODUCTION
+1. ## INTRODUCTION
 
-## SALONS DES NOUVELLES TECHNOLOGIES POUR HANDICAPÉS
-Pusieurs salon et conventions des nouvelles technologie posssèdent une sections spécifiques aux handicaps.
--
--
+2. ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
+* Le CES à Las Vegas
+* Le salon Handica
+
+3. ## LES TECNHNOLOGIE EXISTANTES
+
+- Les exosquelettes
+- Les prothèses
+- Les fauteuils roulants
+- Les cannes connectées
+- Véhicules pour handicapés
+
 
 
 
