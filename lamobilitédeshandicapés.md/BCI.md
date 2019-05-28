@@ -10,7 +10,7 @@
 
 <br/>
 
-## LES TECNHNOLOGIES EXISTANTES
+## LES TECHNOLOGIES EXISTANTES
 
 - [Les exosquelettes](exosquelette.md)
 1. [Aujourd'hui](exoprésent.md)
