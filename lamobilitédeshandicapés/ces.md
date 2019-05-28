@@ -5,9 +5,9 @@
 * **_Le CES à Las Vegas_**
 * [Le salon Handica](handica.md) 
 
-## LES TECHNOLOGIES EXISTANTES
+## LES DIFFÉRENTES TECHNOLOGIES
 ### 1. Les exosquelettes 
-- [Aujourd'hui](exoprésent.md)
+- [iNFORMATIONS GLOBALES](exoprésent.md)
 - [Projet BCI](BCI.md)
 ### 2. Les prothèses
 ### 3. Les fauteuils roulants
