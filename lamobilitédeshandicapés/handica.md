@@ -19,7 +19,7 @@ Le salon Handica est un salon comprenant et exposant du matériel spécifique au
 
 
 ![handica](images/handicaphoto.PNG "handica")
-#### SALON HANDICA. Le salon pour l’autonomie à tous les âges. [en ligne]. _In Salon Handica_. publié le 21 février 2013. [Consulté le 25 mai 2019]. Disponible en ligne : http://www.handica.com/handica_lyon/lyon/fr/265-handica_lyon.html
+#### SALON HANDICA. Le salon pour l’autonomie à tous les âges. [en ligne]. _In Salon Handica_. Publié le 21 février 2013. [Consulté le 25 mai 2019]. Disponible en ligne : http://www.handica.com/handica_lyon/lyon/fr/265-handica_lyon.html
 
 ![handica](images/handicaphoto2.PNG "le salon handica")
 
