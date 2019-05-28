@@ -26,4 +26,4 @@ Le salon Handica est un salon comprenant et exposant du matériel spécifique au
 
 ###### SALON HANDICA. Handica 2017 [en ligne]. Publié le 13 juin 2017. [Consulté le 25 mai 2019]. Disponible en ligne : https://www.youtube.com/watch?time_continue=3&v=LC8I_o1Zk4QMercredi
 
-[Lien YOUTUBE](https://www.youtube.com/watch?time_continue=3&v=LC8I_o1Zk4Q)
+[Lien YOUTUBE](https://www.youtube.com/watch?time_continue=3&v=LC8I_o1Zk4Q) 
