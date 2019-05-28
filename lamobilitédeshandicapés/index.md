@@ -12,7 +12,7 @@
 
 ## LES TECNHNOLOGIES EXISTANTES
 
-### 1. Les exosquelettes
+### 1. Les exosquelettes 
 - [Aujourd'hui](exoprésent.md)
 - [Projet BCI](BCI.md)
 
