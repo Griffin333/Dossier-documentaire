@@ -6,7 +6,7 @@
 * Le CES à Las Vegas
 * Le salon Handica
 
-## LES TECNHNOLOGIE EXISTANTES
+## LES TECNHNOLOGIES EXISTANTES
 
 - Les exosquelettes
 - Les prothèses
