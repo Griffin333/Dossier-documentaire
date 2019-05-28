@@ -4,8 +4,6 @@
 * **_Le CES à Las Vegas_**
 * [Le salon Handica](handica.md) 
 
-<br/>
-
 ## LES TECHNOLOGIES EXISTANTES
 ### 1. Les exosquelettes 
 - [Aujourd'hui](exoprésent.md)
