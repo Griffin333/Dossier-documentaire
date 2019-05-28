@@ -38,5 +38,5 @@
 
 ### 5. Véhicules pour handicapés
 - [La voiture "ELBEE"](Elbee.md)
-- + d'infos
+- [Voitures adaptées](Voitureadaptée.md)
 
