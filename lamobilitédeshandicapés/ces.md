@@ -18,6 +18,10 @@
 
 ----------------------------------------------------------
 
+Définition :
+
+<br/>
+
 #### AFP, 2019. 1) Technologies du futur : le handicap est en marche ! Handicap.fr [en ligne]. 24 avril 2019. [Consulté le 20 mai 2019]. Disponible à l’adresse : [https://informations.handicap.fr/a-technologie-vegas-robots-9472.php](https://informations.handicap.fr/a-technologie-vegas-robots-9472.php)
 
 ![Test](images/aidesalon.PNG "CES") 
