@@ -10,10 +10,10 @@
 
 <br/>
 
-## LES TECNHNOLOGIES EXISTANTES 
+## LES DIFFÉRENTES TECHNOLOGIES
 
 ### 1. Les exosquelettes 
-- [Aujourd'hui](exoprésent.md)
+- [INFORMATION GLOBALES](exoprésent.md)
 - [Projet BCI](BCI.md)
 
 <br/>
