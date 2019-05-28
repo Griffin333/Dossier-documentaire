@@ -9,8 +9,8 @@
 ## LES TECNHNOLOGIES EXISTANTES
 
 - Les exosquelettes
-- **_Les prothèses_**
-- Les fauteuils roulants
+- Les prothèses
+- **_Les fauteuils roulants_**
 - Les cannes connectées
 - Véhicules pour handicapés
 
