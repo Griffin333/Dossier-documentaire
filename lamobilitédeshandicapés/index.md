@@ -14,7 +14,8 @@
 
 - [Les exosquelettes](exosquelette.md)
 1. [Aujourd'hui](exoprésent.md)
-2.
+2. [Possibilités futures](exofutur.md)
+
 <br/>
 
 - [Les prothèses](prothèse.md)
