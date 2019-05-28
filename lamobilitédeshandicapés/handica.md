@@ -12,7 +12,7 @@
 - [Les prothèses](prothèse.md)
 - [Les fauteuils roulants](fauteuilroulant.md)
 - [Les cannes connectées](canneconnectée.md)
-- [Véhicules pour handicapés](véhicules.md)
+- [Véhicules pour handicapés](véhicules.md) 
 
 ----------------------------------------------------------
 Le salon Handica est un salon comprenant et exposant du matériel spécifique aux moyens de maintient à domicile et afin d'aider les personnes avec un handicap, les personnes agées et  différents .
