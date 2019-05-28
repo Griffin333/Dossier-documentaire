@@ -7,7 +7,7 @@
 
 ## LES DIFFÉRENTES TECHNOLOGIES
 ### 1. Les exosquelettes 
-- [INFORMATIONS GLOBALES](exoprésent.md)
+- [Informations globales](exoprésent.md)
 - [Projet BCI](BCI.md)
 ### 2. Les prothèses
 ### 3. Les fauteuils roulants
