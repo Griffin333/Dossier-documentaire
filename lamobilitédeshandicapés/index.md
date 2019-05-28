@@ -6,8 +6,8 @@
 
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
 * [Le CES à Las Vegas](ces.md)
-<br/>
-<br/>
+
+<br/> <br/>
 
 * [Le salon Handica](handica.md)
 
