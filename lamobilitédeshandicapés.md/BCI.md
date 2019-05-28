@@ -14,7 +14,7 @@
 
 - [Les exosquelettes](exosquelette.md)
 1. [Aujourd'hui](exoprésent.md)
-2. [Possibilités futures](exofutur.md)
+2. [Project BCI](BCI.md)
 
 <br/>
 
