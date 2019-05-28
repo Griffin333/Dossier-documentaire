@@ -26,7 +26,7 @@
 <br/>
 
 ### 3. Les fauteuils roulants
-- [Informations globales](fauteuilinfo.md)
+- [NEUROMOOV](Neuromoov.md)
 - + d'infos
 
 <br/>
