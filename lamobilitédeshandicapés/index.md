@@ -32,11 +32,10 @@
 <br/>
 
 ### 4. Les cannes connectées
-- [Informations globales](Canneconnectée.md)
+- [Sherpa](Canneconnectée.md)
 
 <br/>
 
 ### 5. Véhicules pour handicapés
-- [La voiture "ELBEE"](Elbee.md)
 - [Voitures adaptées](Voitureadaptée.md)
-
+- [La voiture "ELBEE"](Elbee.md)
