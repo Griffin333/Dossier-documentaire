@@ -4,15 +4,17 @@
 
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
 * **_Le CES à Las Vegas_**
-* Le salon Handica
+* [Le salon Handica](handica.md)
 
 ## LES TECNHNOLOGIES EXISTANTES
 
-- Les exosquelettes
-- Les prothèses
-- Les fauteuils roulants
-- Les cannes connectées
-- Véhicules pour handicapés
+- [Les exosquelettes](exosquelette.md)
+- [Les prothèses](prothèse.md)
+- [Les fauteuils roulants](fauteuilroulant.md)
+- [Les cannes connectées](canneconnectée.md)
+- [Véhicules pour handicapés](véhicules.md)
+
+
 
 ----------------------------------------------------------
 
