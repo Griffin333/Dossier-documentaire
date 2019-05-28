@@ -9,7 +9,7 @@
 
 <br/>
 
-* [Le salon Handica](handica.md)
+* [Le salon Handica](handica.md) 
 
 <br/>
 
