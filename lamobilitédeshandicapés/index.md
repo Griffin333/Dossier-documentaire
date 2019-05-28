@@ -19,6 +19,9 @@
 <br/>
 
 ### 2. Les prothèses
+- [Informations globales](Prothèseinfo.md)
+- [Prothèses 3D](Prothèse3D.md)
+- [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
 
 <br/>
 
