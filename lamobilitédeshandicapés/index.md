@@ -13,25 +13,30 @@
 ## LES DIFFÉRENTES TECHNOLOGIES
 
 ### 1. Les exosquelettes 
-- [Informations globales](exoprésent.md)
+- [Références globales](exoprésent.md)
 - [Projet BCI](BCI.md)
 
 <br/>
 
 ### 2. Les prothèses
-- [Informations globales](Prothèseinfo.md)
+- [Références globales](Prothèseinfo.md)
 - [Prothèses 3D](Prothèse3D.md)
 - [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
 
 <br/>
 
 ### 3. Les fauteuils roulants
+- [Références globales](fauteuilinfo.md)
+- + d'infos
 
 <br/>
 
 ### 4. Les cannes connectées
+- [Références globales](Canneconnectée.md)
 
 <br/>
 
-### 5. Véhicules pour handicapés 
+### 5. Véhicules pour handicapés
+- [La voiture "ELBEE"](Elbee.md)
+- + d'infos
 
