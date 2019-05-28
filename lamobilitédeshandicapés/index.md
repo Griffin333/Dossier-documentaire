@@ -32,5 +32,5 @@
 
 <br/>
 
-- [Véhicules pour handicapés](véhicules.md)
+- [Véhicules pour handicapés](véhicules.md) 
 
