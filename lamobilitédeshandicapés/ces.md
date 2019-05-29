@@ -17,7 +17,7 @@
 - [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
 <br/><br/>
 ##### 3. Les fauteuils roulants
-- [Fauteuil verticalisateur](FauteuilVertical.md)
+- [Fauteuils verticalisateurs](FauteuilVertical.md)
 - [NEUROMOOV](Neuromoov.md)
 <br/><br/>
 ##### 4. Les cannes connectées
