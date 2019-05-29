@@ -27,7 +27,7 @@
 
 ### 3. Les fauteuils roulants
 - [NEUROMOOV](Neuromoov.md)
-- + d'infos
+- [FauteuilVertical](FauteuilVertical.md)
 
 <br/>
 
