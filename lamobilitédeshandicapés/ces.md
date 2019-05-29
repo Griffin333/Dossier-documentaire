@@ -10,19 +10,19 @@
 ##### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
 - [Projet BCI](BCI.md)
-<br/>
+<br/><br/>
 ##### 2. Les prothèses
 - [Informations globales](Prothèseinfo.md)
 - [Prothèses 3D](Prothèse3D.md)
 - [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
-<br/>
+<br/><br/>
 ##### 3. Les fauteuils roulants
 - [Fauteuil verticalisateur](FauteuilVertical.md)
 - [NEUROMOOV](Neuromoov.md)
-<br/>
+<br/><br/>
 ##### 4. Les cannes connectées
 - ["Sherpa"](Canneconnectée.md)
-<br/>
+<br/><br/>
 ##### 5. Véhicules pour handicapés
 - [Voitures adaptées](Voitureadaptée.md)
 - [Voiture "ELBEE"](Elbee.md)
