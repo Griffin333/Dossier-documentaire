@@ -26,16 +26,17 @@
 <br/>
 
 ### 3. Les fauteuils roulants
-- [NEUROMOOV](Neuromoov.md)
-- [FauteuilVertical](FauteuilVertical.md)
+- [Fauteuil verticalisateur](FauteuilVertical.md)
+- ["NEUROMOOV"](Neuromoov.md)
+
 
 <br/>
 
 ### 4. Les cannes connectées
-- [Sherpa](Canneconnectée.md)
+- ["Sherpa"](Canneconnectée.md)
 
 <br/>
 
 ### 5. Véhicules pour handicapés
 - [Voitures adaptées](Voitureadaptée.md)
-- [La voiture "ELBEE"](Elbee.md)
+- [Voiture "ELBEE"](Elbee.md)
