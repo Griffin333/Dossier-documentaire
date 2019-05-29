@@ -21,7 +21,7 @@
 - ["NEUROMOOV"](Neuromoov.md)
 <br/><br/>
 ##### 4. Les cannes connectées
-- **_Sherpa"_**
+- **_SHERPA"_**
 <br/><br/>
 ##### 5. Véhicules pour handicapés
 - [Voitures adaptées](Voitureadaptée.md)
