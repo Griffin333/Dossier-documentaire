@@ -1,25 +1,32 @@
 # INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
 [ACCUEIL](index.md)
-## INTRODUCTION
+## INTRODUCTION  
+
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * [Le CES à Las Vegas](ces.md)
 * **_Le salon Handica_**
+<br/> <br/>
 ## LES DIFFÉRENTES TECHNOLOGIES
-### 1. Les exosquelettes 
+##### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
 - [Projet BCI](BCI.md)
-### 2. Les prothèses
+<br/><br/>
+##### 2. Les prothèses
 - [Informations globales](Prothèseinfo.md)
 - [Prothèses 3D](Prothèse3D.md)
 - [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
-### 3. Les fauteuils roulants
-- [Fauteuil verticalisateur](FauteuilVertical.md)
-- ["NEUROMOOV"](Neuromoov.md)
-### 4. Les cannes connectées
+<br/><br/>
+##### 3. Les fauteuils roulants
+- [Fauteuils verticalisateurs](FauteuilVertical.md)
+- [NEUROMOOV](Neuromoov.md)
+<br/><br/>
+##### 4. Les cannes connectées
 - ["Sherpa"](Canneconnectée.md)
-### 5. Véhicules pour handicapés
+<br/><br/>
+##### 5. Véhicules pour handicapés
 - [Voitures adaptées](Voitureadaptée.md)
 - [Voiture "ELBEE"](Elbee.md)
+
 
 ----------------------------------------------------------
 Le salon Handica est un marché des nouvelles technologies exposant, à Lyon, du matériel spécifique au maintient à domicile et à l'aide aux personnes âgées et handicapées.
