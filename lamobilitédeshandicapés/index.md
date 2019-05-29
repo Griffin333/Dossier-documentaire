@@ -26,7 +26,7 @@
 <br/>
 
 ### 3. Les fauteuils roulants
-- [Fauteuil verticalisateur](FauteuilVertical.md)
+- [Fauteuils verticalisateurs](FauteuilVertical.md)
 - ["NEUROMOOV"](Neuromoov.md)
 
 
