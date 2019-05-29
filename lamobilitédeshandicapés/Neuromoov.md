@@ -14,7 +14,7 @@
 ##### 2. Les prothèses
 - [Informations globales](Prothèseinfo.md)
 - [Prothèses 3D](Prothèse3D.md)
-- [Hugh Herr : Conférences](Anglais)(Hughvidéo.md)
+- [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
 <br/><br/>
 ##### 3. Les fauteuils roulants
 - [Fauteuils verticalisateurs](FauteuilVertical.md)
