@@ -33,7 +33,7 @@
 <br/>
 
 ### 4. Les cannes connectées
-- ["Sherpa"](Canneconnectée.md)
+- ["SHERPA"](Canneconnectée.md)
 
 <br/>
 
