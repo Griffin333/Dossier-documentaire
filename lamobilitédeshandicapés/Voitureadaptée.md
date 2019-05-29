@@ -10,7 +10,7 @@
 ##### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
 - [Projet BCI](BCI.md)
-<br/><br/>
+<br/><br/> 
 ##### 2. Les prothèses
 - [Informations globales](Prothèseinfo.md)
 - [Prothèses 3D](Prothèse3D.md)
