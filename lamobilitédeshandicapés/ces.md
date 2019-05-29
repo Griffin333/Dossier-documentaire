@@ -13,13 +13,13 @@
 - [Prothèses 3D](Prothèse3D.md)
 - [Hugh Herr : Conférences (Anglais)](Hughvidéo.md)
 ### 3. Les fauteuils roulants
+- [Fauteuil verticalisateur](FauteuilVertical.md)
 - [NEUROMOOV](Neuromoov.md)
-- [FauteuilVertical](FauteuilVertical.md)
 ### 4. Les cannes connectées
-- [Sherpa](Canneconnectée.md)
+- ["Sherpa"](Canneconnectée.md)
 ### 5. Véhicules pour handicapés
 - [Voitures adaptées](Voitureadaptée.md)
-- [La voiture "ELBEE"](Elbee.md)
+- [Voiture "ELBEE"](Elbee.md)
 
 
 
