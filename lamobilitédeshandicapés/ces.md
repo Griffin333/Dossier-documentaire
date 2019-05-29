@@ -1,9 +1,11 @@
 # INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
 [ACCUEIL](index.md)
 ## INTRODUCTION
+
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * **_Le CES à Las Vegas_**
 * [Le salon Handica](handica.md) 
+
 ## LES DIFFÉRENTES TECHNOLOGIES
 ### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
