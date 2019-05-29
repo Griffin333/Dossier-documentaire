@@ -4,7 +4,7 @@
 
 ## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * **_Le CES à Las Vegas_**
-* [Le salon Handica](handica.md) 
+* [Le salon Handica](handica.md)  
 <br/>
 ## LES DIFFÉRENTES TECHNOLOGIES
 #### 1. Les exosquelettes 
