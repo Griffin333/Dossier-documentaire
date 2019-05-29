@@ -1,16 +1,31 @@
-# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES
+# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
+[ACCUEIL](index.md)
+## INTRODUCTION  
 
-## INTRODUCTION
-
-## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES
+## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * [Le CES à Las Vegas](ces.md)
 * [Le salon Handica](handica.md)
+<br/> <br/>
+## LES DIFFÉRENTES TECHNOLOGIES
+##### 1. Les exosquelettes 
+- **_Informations globales_**
+- [Projet BCI](BCI.md)
+<br/><br/>
+##### 2. Les prothèses
+- [Informations globales](Prothèseinfo.md)
+- [Prothèses 3D](Prothèse3D.md)
+- [Hugh Herr : Conférences(Anglais)](Hughvidéo.md)
+<br/><br/>
+##### 3. Les fauteuils roulants
+- [Fauteuils verticalisateurs](FauteuilVertical.md)
+- ["NEUROMOOV"](Neuromoov.md)
+<br/><br/>
+##### 4. Les cannes connectées
+- ["SHERPA"](Canneconnectée.md)
+<br/><br/>
+##### 5. Véhicules pour handicapés
+- [Voitures adaptées](Voitureadaptée.md)
+- [Voiture "ELBEE"](Elbee.md)
 
-## LES TECNHNOLOGIES EXISTANTES
-
-- [Les exosquelettes](exosquelette.md)
-1. [Aujourd'hui](exoprésent.md)
-- [Les prothèses](prothèse.md)
-- [Les fauteuils roulants](fauteuilroulant.md)
-- [Les cannes connectées](canneconnectée.md)
-- [Véhicules pour handicapés](véhicules.md)
+----------------------------------------------------------
+<br/>
