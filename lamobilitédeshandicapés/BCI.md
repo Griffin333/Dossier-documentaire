@@ -18,7 +18,7 @@
 <br/><br/>
 ##### 3. Les fauteuils roulants
 - [Fauteuils verticalisateurs](FauteuilVertical.md)
-- [NEUROMOOV](Neuromoov.md)
+- ["NEUROMOOV"](Neuromoov.md)
 <br/><br/>
 ##### 4. Les cannes connectées
 - ["Sherpa"](Canneconnectée.md)
