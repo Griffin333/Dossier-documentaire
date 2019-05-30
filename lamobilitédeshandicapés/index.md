@@ -14,7 +14,7 @@
 
 ### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
-- [Projet BCI](BCI.md)
+- [Projet "BCI"](BCI.md)
 
 <br/>
 
