@@ -29,3 +29,20 @@
 
 ----------------------------------------------------------
 <br/>
+
+Les fauteuils roulants sont une des bases de la mobilité et de l'autonomie chez les handicapés. Les différentes innovations technologiques font évoluer ces moyen de déplacement. Les fauteuils verticalisateurs permettent de se déplacer en restant debout, ce changement de position apporte un éventail de possibilités innacessible pour un fauteuil roulant classique. 
+
+<br/>
+
+### GYROLIFT. « Gyrolift » [en ligne].  _Gyrolift New mobility solution._ 22 novembre 2018 [Consulté le 29 mai 2019]. Disponible en ligne : [http://www.gyrolift.fr/#section-partenaires](http://www.gyrolift.fr/#section-partenaires)
+![Fauteuil1.PNG](images/Fauteuil1.PNG "Fauteuil Gyriloft")
+
+<br/><br/><br/>
+
+### GYROLIFT. « Gyrolift, fauteuil roulant verticalisateur » [en ligne]. _Youtube._ 15 juin 2015 [Consulté le 29 mai 2019]. Disponible en ligne : [https://www.youtube.com/watch?v=3dnNYjydDR8](https://www.youtube.com/watch?v=3dnNYjydDR8)
+![Fauteuil2.PNG](images/Fauteuil2.PNG)
+
+<br/><br/><br/>
+
+### SUNRISE MEDICAL. « Fauteuil verticalisateur QUICKIE Q700-UP M »   [en ligne]. _Sunrise Medical._ 5 mai 2019 [Consulté le 29 mai 2019]. Disponible en ligne : [https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m](https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m)
+![Fauteuil3.PNG](images/Fauteuil3.PNG)
