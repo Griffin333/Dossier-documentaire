@@ -47,7 +47,7 @@ Ils peuvent grâce à cette innovation, retrouver une mobolité et une autonomie
 
 ### DIAGONAL VIEW.  « Exoskeleton Suit » . [en ligne]. _Youtube._ Publié le 31 mars 2010. [Consulté le 24 mai 2019]. 1 min 27 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA](https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA)
 ![exo3.PNG](images/exo3.PNG "Exosquelette")
-> Vidéo en Anglais
+> Vidéo en anglais
 
 
 
