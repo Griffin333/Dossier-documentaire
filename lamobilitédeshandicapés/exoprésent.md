@@ -35,7 +35,7 @@ Ils peuvent grâce à cette innovation, retrouver une mobolité et une autonomie
 
 <br/>
 
-### ANNE-LAURE LEBRUN. « les exosquelettes font leur entrée dans le quotidien » . [en ligne]. _Le figaro.fr_ 4 juillet 2017. [Consulté le 20 mai 2019]. Disponible sur le Web : [http://sante.lefigaro.fr/actualite/2014/07/04/22573-handicap-exosquelettes-font-leur-entree-dans-quotidien](http://sante.lefigaro.fr/actualite/2014/07/04/22573-handicap-exosquelettes-font-leur-entree-dans-quotidien)
+### ANNE-LAURE LEBRUN. « les exosquelettes font leur entrée dans le quotidien » . [en ligne]. _Le figaro.fr_. 4 juillet 2017. [Consulté le 20 mai 2019]. Disponible sur le Web : [http://sante.lefigaro.fr/actualite/2014/07/04/22573-handicap-exosquelettes-font-leur-entree-dans-quotidien](http://sante.lefigaro.fr/actualite/2014/07/04/22573-handicap-exosquelettes-font-leur-entree-dans-quotidien)
 ![Exo1.PNG](images/Exo1.PNG "Les Exosquelettes")
 
 <br/><br/>
@@ -45,7 +45,7 @@ Ils peuvent grâce à cette innovation, retrouver une mobolité et une autonomie
 
 <br/><br/>
 
-### DIAGONAL VIEW.  « Exoskeleton Suit » . [en ligne]. _Youtube._Publié le 31 mars 2010. [Consulté le 24 mai 2019]. 1 min 27 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA](https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA)
+### DIAGONAL VIEW.  « Exoskeleton Suit » . [en ligne]. _Youtube._ Publié le 31 mars 2010. [Consulté le 24 mai 2019]. 1 min 27 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA](https://www.youtube.com/watch?time_continue=48&v=XOm8yHuWlzsA)
 ![exo3.PNG](images/exo3.PNG "Exosquelette")
 >Vidéo en Anglais
 
