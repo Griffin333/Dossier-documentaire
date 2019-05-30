@@ -9,7 +9,7 @@
 ## LES DIFFÉRENTES TECHNOLOGIES
 ##### 1. Les exosquelettes 
 - [Informations globales](exoprésent.md)
-- [Projet BCI](BCI.md)
+- [Projet "BCI"](BCI.md)
 <br/><br/> 
 ##### 2. Les prothèses
 - [Informations globales](Prothèseinfo.md)
