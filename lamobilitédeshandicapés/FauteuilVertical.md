@@ -39,7 +39,7 @@ Les fauteuils roulants sont une des bases de la mobilité et de l'autonomie chez
 
 <br/><br/><br/>
 
-### GYROLIFT. « Gyrolift, fauteuil roulant verticalisateur » [en ligne]. _Youtube._ Publié le 15 juin 2015 [Consulté le 29 mai 2019]. Disponible en ligne : [https://www.youtube.com/watch?v=3dnNYjydDR8](https://www.youtube.com/watch?v=3dnNYjydDR8)
+### GYROLIFT. « Gyrolift, fauteuil roulant verticalisateur » [en ligne]. _Youtube._ Publié le 15 juin 2015 [Consulté le 29 mai 2019]. 1 min 58 sec. Disponible en ligne : [https://www.youtube.com/watch?v=3dnNYjydDR8](https://www.youtube.com/watch?v=3dnNYjydDR8)
 ![Fauteuil2.PNG](images/Fauteuil2.PNG "Gyriloft sur Youtube")
 
 <br/><br/><br/>
