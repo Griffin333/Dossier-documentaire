@@ -20,7 +20,7 @@
 - [Fauteuils verticalisateurs](FauteuilVertical.md)
 - ["NEUROMOOV"](Neuromoov.md)
 <br/><br/>
-##### 4. Les cannes connectées
+##### 4. La canne connectée
 - **_"SHERPA"_**
 <br/><br/>
 ##### 5. Véhicules pour handicapés
