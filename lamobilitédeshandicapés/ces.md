@@ -35,5 +35,5 @@ Le CES est un salon se déroulant à Las Vegas qui est composé des nouvelles in
 
 #### AFP. Technologies du futur : le handicap est en marche ! [en ligne]._Handicap.fr_. Publié le 24 avril 2019. [Consulté le 20 mai 2019]. Disponible en ligne : [https://informations.handicap.fr/a-technologie-vegas-robots-9472.php](https://informations.handicap.fr/a-technologie-vegas-robots-9472.php)
 
-![Test](images/aidesalon.PNG "CES") 
+![Test](images/aidesalon.PNG "CES 2017 de Las Vegas") 
 
