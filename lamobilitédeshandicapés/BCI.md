@@ -39,7 +39,7 @@ Cela permettrait de rendre une grande mobilité aux personnes handicapées.
 
 <br/><br/><br/>
 
-### CLINATEC. « Le projet "BCI" » [en ligne]. _Clinatec._ Mis à jour le 27 octobre 2018 [Consulté le 30 mai 2019]. Disponible en ligne : [https://www.clinatec.fr/recherche/nos-projets/le-projet-bci/](https://www.clinatec.fr/recherche/nos-projets/le-projet-bci/)
+### CLINATEC. « Le projet "BCI" » [en ligne]. _Clinatec._ Mise à jour le 27 octobre 2018 [Consulté le 30 mai 2019]. Disponible en ligne : [https://www.clinatec.fr/recherche/nos-projets/le-projet-bci/](https://www.clinatec.fr/recherche/nos-projets/le-projet-bci/)
 ![BCI2.PNG](images/BCI2.PNG "Le project BCI")
 
 <br/><br/><br/>
