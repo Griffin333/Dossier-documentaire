@@ -45,4 +45,4 @@ CLINATEC. « Le projet "BCI" » [en ligne]. _Clinatec._ Mis à jour le 27 octob
 <br/><br/><br/>
 
 FONDS DE DOTATION CLINATEC. « Le projet "BCI" » [en ligne]. _Youtube._ Publié le 12 avril 2016 [Consulté le 25 mai 2019]. 4 min 22 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=123&v=bzANaU8FUC8](https://www.youtube.com/watch?time_continue=123&v=bzANaU8FUC8)
-![BCI3.PNG](images/BCI3.PNG "Vidéo du Project "BCI"")
+![BCI3.PNG](images/BCI3.PNG "Vidéo du Project "BCI"") 
