@@ -34,13 +34,13 @@ L'évolution des prothèses de nos jours est fulgurante. Grâce à la technologi
 
 <br/>
 
-### SCIENCEPOST. « Quelles sont les dernières innovations technologiques au service du handicap ? » [en ligne]. _Sciencepost._ Publié le 31 août 2018 [Consulté le 25 mai 2019]. Disponible en ligne : [https://sciencepost.fr/2018/08/les-dernieres-innovations-technologiques-au-service-du-handicap/](https://sciencepost.fr/2018/08/les-dernieres-innovations-technologiques-au-service-du-handicap/)
-![Prothèse1.PNG](images/Prothèse1.PNG "Aides à l'handicap")
+### PARTENAMUT. « Prothèses bioniques : du hightec pour les bras et les jambes » [en ligne]. _Partenamut Mutualité Libre._ Mise à jour le 24 février 2019 [Consulté le 24 mai 2019]. Disponible en ligne : [https://www.partenamut.be/fr/blog-sante-et-bien-etre/articles/protheses-bioniques](https://www.partenamut.be/fr/blog-sante-et-bien-etre/articles/protheses-bioniques)
+![Prothèse2.PNG](images/Prothèse2.PNG "Prothèse bionique")
 
 <br/><br/><br/>
 
-### PARTENAMUT. « Prothèses bioniques : du hightec pour les bras et les jambes » [en ligne]. _Partenamut Mutualité Libre._ Mise à jour le 24 février 2019 [Consulté le 24 mai 2019]. Disponible en ligne : [https://www.partenamut.be/fr/blog-sante-et-bien-etre/articles/protheses-bioniques](https://www.partenamut.be/fr/blog-sante-et-bien-etre/articles/protheses-bioniques)
-![Prothèse2.PNG](images/Prothèse2.PNG "Prothèse bionique")
+### SCIENCEPOST. « Quelles sont les dernières innovations technologiques au service du handicap ? » [en ligne]. _Sciencepost._ Publié le 31 août 2018 [Consulté le 25 mai 2019]. Disponible en ligne : [https://sciencepost.fr/2018/08/les-dernieres-innovations-technologiques-au-service-du-handicap/](https://sciencepost.fr/2018/08/les-dernieres-innovations-technologiques-au-service-du-handicap/)
+![Prothèse1.PNG](images/Prothèse1.PNG "Aides à l'handicap")
 
 <br/><br/><br/>
 
