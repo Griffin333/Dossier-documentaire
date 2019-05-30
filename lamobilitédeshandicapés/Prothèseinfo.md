@@ -44,5 +44,5 @@ L'évolution des prothèses de nos jours est fulgurante. Grâce à la technologi
 
 <br/><br/><br/>
 
-### TECHNOLOGIE ET INNOVATION DU PRÉSENT ET DU FUTUR. « BiOM : Prothèse bionique pour remplacer une jambe amputée » [en ligne]. _Technologie et innovation du présent et du futur._ Mise en ligne le 17 août 2019. [Consulté le 24 mai 2019]. Disponible en ligne : [https://technologie-innovation.fr/biom-prothese-bionique-pour-remplacer-une-jambe-amputee](https://technologie-innovation.fr/biom-prothese-bionique-pour-remplacer-une-jambe-amputee)
+### TECHNOLOGIE ET INNOVATION DU PRÉSENT ET DU FUTUR. « BiOM : Prothèse bionique pour remplacer une jambe amputée » [en ligne]. _Technologie et innovation du présent et du futur._ Mise à jour le 17 août 2019. [Consulté le 24 mai 2019]. Disponible en ligne : [https://technologie-innovation.fr/biom-prothese-bionique-pour-remplacer-une-jambe-amputee](https://technologie-innovation.fr/biom-prothese-bionique-pour-remplacer-une-jambe-amputee)
 ![Prothèse3.PNG](images/Prothèse3.PNG "Prothèse bionique")
