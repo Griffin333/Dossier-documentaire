@@ -35,10 +35,10 @@ Désormais, les scanner 3D font des moules numériques du membre voulu et envoie
 
 <br/>
 
-### VANDERHEYDE, Diana. « Prothèse 3D: Des avancées technologiques prometteuses » [en ligne]. _Handicap International._ Mise à jour le 15 mai 2017 [Consulté le 20 mai 2019]. Disponible en ligne : [https://www.handicapinternational.be/fr/presse/prothese-3d-des-avancees-technologiques-prometteuses](https://www.handicapinternational.be/fr/presse/prothese-3d-des-avancees-technologiques-prometteuses)
-![Prothèses3D1.PNG](images/Prothèses3D1.PNG "Prothèse 3D")
+### HANDICAP INTERNATIONAL. « Prothèse 3D : des avancées technologiques prometteuses ».  [en ligne]. _Handicap International._ Publié le 9 mai 2017 [Consulté le 20 mai 2019]. Disponible en ligne : [https://www.handicapinternational.be/fr/actualites/prothese-3d-des-avancees-technologiques-prometteuses](https://www.handicapinternational.be/fr/actualites/prothese-3d-des-avancees-technologiques-prometteuses)
+![Prothèses3D2.PNG](images/Prothèses3D2.PNG "Prothèse 3D")
 
 <br/><br/><br/>
 
-### HANDICAP INTERNATIONAL. « Prothèse 3D : des avancées technologiques prometteuses ».  [en ligne]. _Handicap International._ Publié le 9 mai 2017 [Consulté le 20 mai 2019]. Disponible en ligne : [https://www.handicapinternational.be/fr/actualites/prothese-3d-des-avancees-technologiques-prometteuses](https://www.handicapinternational.be/fr/actualites/prothese-3d-des-avancees-technologiques-prometteuses)
-![Prothèses3D2.PNG](images/Prothèses3D2.PNG "Prothèse 3D")
+### VANDERHEYDE, Diana. « Prothèse 3D: Des avancées technologiques prometteuses » [en ligne]. _Handicap International._ Mise à jour le 15 mai 2017 [Consulté le 20 mai 2019]. Disponible en ligne : [https://www.handicapinternational.be/fr/presse/prothese-3d-des-avancees-technologiques-prometteuses](https://www.handicapinternational.be/fr/presse/prothese-3d-des-avancees-technologiques-prometteuses)
+![Prothèses3D1.PNG](images/Prothèses3D1.PNG "Prothèse 3D")
