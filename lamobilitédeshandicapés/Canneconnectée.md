@@ -49,5 +49,5 @@ Pour améliorer la mobilité des malvoyants et des aveugles, Handisco a dévelop
 
 <br/><br/><br/>
 
-### Sherpa. « la 1ère canne blanche connectée pour déficients visuels ! Par Handisco » [en ligne]. _Youtube._ Publié le 26 octobre 2017 [Consulté le 20 mai 2019]. 2 min 30 sec. Disponible en ligne : [https://www.youtube.com/watch?v=PLMdzZrhl7A](https://www.youtube.com/watch?v=PLMdzZrhl7A)
+### HANDISCO. « Sherpa, la 1ère canne blanche connectée pour déficients visuels ! Par Handisco » [en ligne]. _Youtube._ Publié le 26 octobre 2017 [Consulté le 20 mai 2019]. 2 min 30 sec. Disponible en ligne : [https://www.youtube.com/watch?v=PLMdzZrhl7A](https://www.youtube.com/watch?v=PLMdzZrhl7A)
 ![Canne4.PNG](images/Canne4.PNG "Explication du fonctionnement")
