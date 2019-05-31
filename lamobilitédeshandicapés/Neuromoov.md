@@ -31,7 +31,7 @@
 
 <br/>
 
-L'innovation "NEUROMOOV" consiste en un fauteuil roulant classique mais dont la particuliarité est de pouvoir fonctionner grâce aux ondes cérébrales. Le casque, posé sur la tête, analyse le cerveau et traduit les ondes en commande pour faire bouger le fauteuil. L'idée vient d'ingénieurs de l'école ESME sudria.
+L'innovation "NEUROMOOV" consiste en un fauteuil roulant classique mais dont la particuliarité est de pouvoir fonctionner grâce aux ondes cérébrales. Le casque, posé sur la tête, analyse le cerveau et traduit les ondes en commandes pour faire bouger le fauteuil. L'idée vient d'ingénieurs de l'école ESME sudria.
 
 <br/>
 
