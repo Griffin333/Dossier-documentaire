@@ -29,3 +29,23 @@
 
 ----------------------------------------------------------
 <br/>
+
+"ElBEE" est une petite voiture à moteur thermique accessible et conçu pour les personnes en fauteuil roulant.
+Cela facilite grandement la mobilité des handicapés et cela démontre les grandes possiblilitées d'innovations technologiques que nous pouvons concevoir.
+
+
+<br/>
+
+### ELBEE. « Elbee #Your freedom of movement » [en ligne]. _Accueil._ Mise à jour le 7 mai 2016 [Consulté le 25 mai 2019]. Disponible en ligne : [https://www.elbeemobility.com/](https://www.elbeemobility.com/)
+![ELBEE1.PNG](images/ELBEE1.PNG "Site officiel")
+> Site en anglais
+
+<br/><br/><br/>
+
+### LE BLOG EMPLOI HANDICAP. « Elbee, la voiture qui rend indépendant les personnes en fauteuil » [en ligne]. _Accueil._ Publié le 29 décembre 2016 [Consulté le 25 mai 2019]. Disponible en ligne : [https://www.handicap-job.com/blog/2016/12/29/elbee-voiture-rend-independant-personnes-fauteuil/](https://www.handicap-job.com/blog/2016/12/29/elbee-voiture-rend-independant-personnes-fauteuil/)
+![ELBEE2.PNG](images/ELBEE2.PNG "Descriptif de ELBEE")
+
+<br/><br/><br/>
+
+### A.C.A FRANCE. « Elbee - Conduite en Fauteuil roulant » [en ligne]. _Youtube_ Publié le 22 juin 2015 [Consulté le 25 mai 2019]. 2 min 04 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=33&v=_KpmY4FoPRw](https://www.youtube.com/watch?time_continue=33&v=_KpmY4FoPRw)
+![ELBEE3.PNG](images/ELBEE3.PNG "Démonstration de ELBEE")
