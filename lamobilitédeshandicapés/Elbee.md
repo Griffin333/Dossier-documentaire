@@ -1,8 +1,8 @@
-# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
+# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES PORTANT UN HANDICAP
 [ACCUEIL](index.md)
 ## INTRODUCTION  
 
-## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
+## ESPACES POUR PORTEUR D'HANDICAP DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * [Le CES à Las Vegas](ces.md)
 * [Le salon Handica](handica.md)
 <br/> <br/>
@@ -23,7 +23,7 @@
 ##### 4. La canne connectée
 - ["SHERPA"](Canneconnectée.md)
 <br/><br/>
-##### 5. Véhicules pour handicapés
+##### 5. Véhicules pour personne à mobilité réduite
 - [Voitures adaptées](Voitureadaptée.md)
 - **_Voiture "ELBEE"_**
 
@@ -31,7 +31,7 @@
 <br/>
 
 "ElBEE" est une petite voiture à moteur thermique accessible et conçu pour les personnes en fauteuil roulant.
-Cela facilite grandement la mobilité des handicapés et cela démontre les grandes possiblilitées d'innovations technologiques que nous pouvons concevoir.
+Cela facilite grandement la mobilité des personnes porteur d'handicap et cela démontre les grandes possiblilitées d'innovations technologiques que nous pouvons concevoir.
 
 
 <br/>
