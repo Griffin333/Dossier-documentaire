@@ -29,8 +29,8 @@
 
 ----------------------------------------------------------
 <br/>
-Le salon Handica est un marché des nouvelles technologies exposant, à Lyon, du matériel spécifique au maintient à domicile et à l'aide aux personnes âgées et/ou porteur de handicap.
 
+Le salon Handica est un marché des nouvelles technologies exposant, à Lyon, du matériel spécifique au maintient à domicile et à l'aide aux personnes âgées et/ou porteur de handicap.
 
 <br/>
 
