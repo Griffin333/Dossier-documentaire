@@ -34,15 +34,15 @@ Grâce aux innovations robotiques et numériques, il est désormais possible d'a
 
 <br/>
 
-ACM MOBILITY CAR. « Adaptation de voiture et véhicule pour personnes handicapées en Belgique » [en ligne]. _ACM Mobility CAR._ Mise à jour le 26 janvier 2019 [Consulté le 28 mai 2019]. Disponible en ligne : [https://www.acmobility.com/fr/](https://www.acmobility.com/fr/)
-![Voiture1.PNG](Voiture1.PNG "ACM MOBILITY CAR")
+### ACM MOBILITY CAR. « Adaptation de voiture et véhicule pour personnes handicapées en Belgique » [en ligne]. _ACM Mobility CAR._ Mise à jour le 26 janvier 2019 [Consulté le 28 mai 2019]. Disponible en ligne : [https://www.acmobility.com/fr/](https://www.acmobility.com/fr/)
+![Voiture1.PNG](images/Voiture1.PNG "ACM MOBILITY CAR")
 
 <br/><br/><br/>
 
-HANDYNAMIC. « Avec Handynamic, vous serez toujours en dynamique ! » [en ligne]. _handynamic. Véhicules accessibles._ Mise à jour le 31 mai 2017 [Consulté le 28 mai 2019]. Disponible en ligne : [https://www.handynamic.fr/voitures-pour-particuliers/](https://www.handynamic.fr/voitures-pour-particuliers/)
-![Voiture2.PNG](Voiture2.PNG "Site Handynamic")
+### HANDYNAMIC. « Avec Handynamic, vous serez toujours en dynamique ! » [en ligne]. _handynamic. Véhicules accessibles._ Mise à jour le 31 mai 2017 [Consulté le 28 mai 2019]. Disponible en ligne : [https://www.handynamic.fr/voitures-pour-particuliers/](https://www.handynamic.fr/voitures-pour-particuliers/)
+![Voiture2.PNG](images/Voiture2.PNG "Site Handynamic")
 
 <br/><br/><br/>
 
-HANDYNAMIC. « Handynamic, pour qui, pourquoi, comment ? » [en ligne]. _Youtube._ Publié le 12 janvier 2016 [Consulté le 28 mai 2019]. 2 min 38 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=126&v=JgmXHvOQ5Vw](https://www.youtube.com/watch?time_continue=126&v=JgmXHvOQ5Vw)
-![Voiture3.PNG](Voiture3.PNG "Illustrations des adaptations")
+### HANDYNAMIC. « Handynamic, pour qui, pourquoi, comment ? » [en ligne]. _Youtube._ Publié le 12 janvier 2016 [Consulté le 28 mai 2019]. 2 min 38 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=126&v=JgmXHvOQ5Vw](https://www.youtube.com/watch?time_continue=126&v=JgmXHvOQ5Vw)
+![Voiture3.PNG](images/Voiture3.PNG "Illustrations des adaptations")
