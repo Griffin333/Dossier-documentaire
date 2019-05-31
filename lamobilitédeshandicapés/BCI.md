@@ -30,7 +30,7 @@
 ----------------------------------------------------------
 <br/>
 Le project "BCI" consiste en un exosquelette controlé par la pensée. Il s'agirait de piloter grâce aux signaux du cerveau qui seraient captés par des récepteur de la machine, ce qui ferait bouger l'exosquelette. 
-Cela permettrait de rendre une grande mobilité aux personnes handicapées.
+Cela permettrait de rendre une grande mobilité aux personnes à mobilité réduite.
 
 <br/><br/><br/>
 
