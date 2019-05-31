@@ -1,8 +1,8 @@
-# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
+# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES PORTANT UN HANDICAP
 [ACCUEIL](index.md) 
 ## INTRODUCTION
 
-## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
+## ESPACES POUR PORTEUR DE HANDICAP DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * **_Le CES à Las Vegas_**
 * [Le salon Handica](handica.md) 
 <br/> <br/>
@@ -23,13 +23,13 @@
 ##### 4. La canne connectée
 - ["SHERPA"](Canneconnectée.md)
 <br/><br/>
-##### 5. Véhicules pour handicapés
+##### 5. Véhicules pour personne à mobilité réduite
 - [Voitures adaptées](Voitureadaptée.md)
 - [Voiture "ELBEE"](Elbee.md)
  
 ----------------------------------------------------------
 <br/>
-Le CES est un salon se déroulant à Las Vegas qui est composé des nouvelles innovations électroniques, robotiques et d'intelligences artificielles. Parmis elles, un coin est réservé aux technologies pour les handicapés.
+Le CES est un salon se déroulant à Las Vegas qui est composé des nouvelles innovations électroniques, robotiques et d'intelligences artificielles. Parmis elles, un coin est réservé aux technologies pour les porteurs de handicap.
 
 <br/>
 
