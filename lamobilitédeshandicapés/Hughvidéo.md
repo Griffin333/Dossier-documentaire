@@ -1,8 +1,8 @@
-# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES HANDICAPÉES  
+# INFORMATIONS SUR LA MOBILITÉ DES PERSONNES PORTANT UN HANDICAP
 [ACCUEIL](index.md)
 ## INTRODUCTION  
 
-## ESPACES POUR HANDICAPÉS DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
+## ESPACES POUR PORTEUR DE HANDICAP DANS LES SALONS DES NOUVELLES TECHNOLOGIES 
 * [Le CES à Las Vegas](ces.md)
 * [Le salon Handica](handica.md)
 <br/> <br/>
@@ -23,14 +23,14 @@
 ##### 4. La canne connectée
 - ["SHERPA"](Canneconnectée.md)
 <br/><br/>
-##### 5. Véhicules pour handicapés
+##### 5. Véhicules pour personne à mobilité réduite
 - [Voitures adaptées](Voitureadaptée.md)
 - [Voiture "ELBEE"](Elbee.md)
 
 ----------------------------------------------------------
 <br/>
 
-Hugh Herr est un handicapé moteur ayant perdu ses deux jambes dans un accident.
+Hugh Herr est une personne avec un handicap moteur ayant perdu ses deux jambes dans un accident.
 Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. Il donne parfois des expositions pour présenter ses nouvelles innovations.
 
 <br/>
