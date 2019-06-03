@@ -4,7 +4,7 @@
 
 Ce site est consacré aux informations sur la mobilité des personnes portant un handicap.
 
-Grâce aux technologies actuelles, nous pouvons concevoir des innovations utiles aux porteurs de handicap qui pourraient retrouver une autonomie proche d'avant des personnes sans handicap.
+Grâce aux technologies actuelles, nous pouvons concevoir des innovations utiles aux porteurs de handicap qui pourraient retrouver une autonomie proche des personnes sans handicap.
 
 Ce site propose de nombreuses références sur ce sujet. 
 Il commence par la place des innovations technologiques pour porteur de handicap dans les salons d’expositions et ensuite le site enchaine avec cinq technologies différentes présentées en catégorie et en inventions variées.   
