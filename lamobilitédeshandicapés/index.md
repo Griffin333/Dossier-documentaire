@@ -1,6 +1,6 @@
 # INFORMATIONS SUR LA MOBILITÉ DES PERSONNES ATTEINTES DE HANDICAP
 **_ACCUEIL_**
-## INTRODUCTION
+## INTRODUCTION 
 
 Ce site est consacré aux informations sur la mobilité des personnes portant un handicap.
 
