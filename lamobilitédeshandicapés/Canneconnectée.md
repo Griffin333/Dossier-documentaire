@@ -34,7 +34,7 @@ Pour améliorer la mobilité des malvoyants et des aveugles, Handisco a dévelop
 
 <br/>
 
-### CISCOFRANCE. « La canne connectée Handisco, projet lauréat du Défi Cisco 2014 » [en ligne]. _Youtube._ Publié le 3 avril 2014 [Consulté le 24 mai 2019]. 3 min 45 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=150&v=WRDjZeZAnn0](https://www.youtube.com/watch?time_continue=150&v=WRDjZeZAnn0)
+### CISCOFRANCE. « La canne connectée Handisco, projet lauréat du Défi Cisco 2014 » [en ligne]. _YouTube._ Publié le 3 avril 2014 [Consulté le 24 mai 2019]. 3 min 45 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=150&v=WRDjZeZAnn0](https://www.youtube.com/watch?time_continue=150&v=WRDjZeZAnn0)
 ![Canne3.PNG](images/Canne3.PNG "Le projet Sherpa")
 
 <br/><br/><br/>
