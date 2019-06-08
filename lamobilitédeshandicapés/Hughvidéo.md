@@ -35,12 +35,12 @@ Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. 
 
 <br/>
 
-### TED. « Hugh Herr: La nouvelle bionique pour courir, escalader et danser » [en ligne]. Publié le 28 mars 2014 [Consulté le 24 mai 2019]. 19 min 00 sec. Disponible en ligne : [https://youtu.be/CDsNZJTWw0w](https://youtu.be/CDsNZJTWw0w)
+### TED. « Hugh Herr: La nouvelle bionique pour courir, escalader et danser » [en ligne]. Publié le 28 mars 2014 [Consulté le 24 mai 2019]. 19 min 00 sec. Disponible sur le Web : [https://youtu.be/CDsNZJTWw0w](https://youtu.be/CDsNZJTWw0w)
 ![HughHerr1.PNG](images/HughHerr1.PNG "Hugh Herr - TED")
 > Vidéo en anglais
 
 <br/><br/><br/>
 
-### ZeitgeistMinds. « The World We Dream- Hugh Herr Zeitgeist Americas 2012 » [en ligne]. Publié le 16 octobre [Consulté le 24 mai 2019]. 13 min 38 sec. Disponible en ligne : [https://youtu.be/it1A4qT1cHs](https://youtu.be/it1A4qT1cHs)
+### ZeitgeistMinds. « The World We Dream- Hugh Herr Zeitgeist Americas 2012 » [en ligne]. Publié le 16 octobre [Consulté le 24 mai 2019]. 13 min 38 sec. Disponible sur le Web : [https://youtu.be/it1A4qT1cHs](https://youtu.be/it1A4qT1cHs)
 ![HughHerr2.PNG](images/HughHerr2.PNG "Hugh Herr - Exposition")
 > Vidéo en anglais
