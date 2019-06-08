@@ -35,10 +35,10 @@ L'innovation "NEUROMOOV" consiste en un fauteuil roulant classique mais dont la 
 
 <br/>
 
-### GOUDET, Jean-Luc. « Neuromoov, le fauteuil roulant commandé par la pensée » [en ligne]. _Futura Tech._ Publié le 20 novembre 2015. [Consulté le 24 mai 2019]. Disponible en ligne : [https://www.futura-sciences.com/tech/actualites/technologie-neuromoov-fauteuil-roulant-commande-pensee-60492/](https://www.futura-sciences.com/tech/actualites/technologie-neuromoov-fauteuil-roulant-commande-pensee-60492/)
+### GOUDET, Jean-Luc. « Neuromoov, le fauteuil roulant commandé par la pensée » [en ligne]. _Futura Tech._ Publié le 20 novembre 2015. [Consulté le 24 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/actualites/technologie-neuromoov-fauteuil-roulant-commande-pensee-60492/](https://www.futura-sciences.com/tech/actualites/technologie-neuromoov-fauteuil-roulant-commande-pensee-60492/)
 ![NEUROMOOV1.PNG](images/NEUROMOOV1.PNG "NEUROMOOV")
 
 <br/><br/><br/>
 
-### TROPHÉES DES INGÉNIEURS DE DEMAIN. « Pierre PAGLIUGHI - NEUROMOOV » [en ligne]. _Youtube_ Publié le 10 novembre 2015 [Consulté le 24 mai 2019]. 1 min 10 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=2&v=rZfwK83qj88](https://www.youtube.com/watch?time_continue=2&v=rZfwK83qj88)
+### TROPHÉES DES INGÉNIEURS DE DEMAIN. « Pierre PAGLIUGHI - NEUROMOOV » [en ligne]. _Youtube_ Publié le 10 novembre 2015 [Consulté le 24 mai 2019]. 1 min 10 sec. Disponible sur le Web : [https://www.youtube.com/watch?time_continue=2&v=rZfwK83qj88](https://www.youtube.com/watch?time_continue=2&v=rZfwK83qj88)
 ![NEUROMOOV2.PNG](images/NEUROMOOV2.PNG "NEUROMOOV Youtube")
