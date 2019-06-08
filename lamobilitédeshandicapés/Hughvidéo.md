@@ -41,6 +41,6 @@ Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. 
 
 <br/><br/><br/>
 
-### ZeitgeistMinds. « The World We Dream- Hugh Herr Zeitgeist Americas 2012 » [en ligne]. Publié le 16 octobre [Consulté le 24 mai 2019]. 13 min 38 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=558&v=it1A4qT1cHs](https://www.youtube.com/watch?time_continue=558&v=it1A4qT1cHs)
+### ZeitgeistMinds. « The World We Dream- Hugh Herr Zeitgeist Americas 2012 » [en ligne]. Publié le 16 octobre [Consulté le 24 mai 2019]. 13 min 38 sec. Disponible en ligne : [https://youtu.be/it1A4qT1cHs](https://youtu.be/it1A4qT1cHs)
 ![HughHerr2.PNG](images/HughHerr2.PNG "Hugh Herr - Exposition")
 > Vidéo en anglais
