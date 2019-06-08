@@ -35,7 +35,7 @@ Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. 
 
 <br/>
 
-### TED. « Hugh Herr: La nouvelle bionique pour courir, escalader et danser » [en ligne]. Publié le 28 mars 2014 [Consulté le 24 mai 2019]. 19 min 00 sec. Disponible en ligne : [https://www.youtube.com/watch?time_continue=76&v=CDsNZJTWw0w](https://www.youtube.com/watch?time_continue=76&v=CDsNZJTWw0w)
+### TED. « Hugh Herr: La nouvelle bionique pour courir, escalader et danser » [en ligne]. Publié le 28 mars 2014 [Consulté le 24 mai 2019]. 19 min 00 sec. Disponible en ligne : [https://youtu.be/CDsNZJTWw0w](https://youtu.be/CDsNZJTWw0w)
 ![HughHerr1.PNG](images/HughHerr1.PNG "Hugh Herr - TED")
 > Vidéo en anglais
 
