@@ -34,15 +34,15 @@ Les fauteuils roulants sont une des bases de la mobilité et de l'autonomie chez
 
 <br/>
 
-### GYROLIFT. « Gyrolift » [en ligne].  _Gyrolift New mobility solution._ Mise à jour le 22 novembre 2018 [Consulté le 29 mai 2019]. Disponible en ligne : [http://www.gyrolift.fr/#section-partenaires](http://www.gyrolift.fr/#section-partenaires)
+### GYROLIFT. « Gyrolift » [en ligne].  _Gyrolift New mobility solution._ Mise à jour le 22 novembre 2018 [Consulté le 29 mai 2019]. Disponible sur le Web : [http://www.gyrolift.fr/#section-partenaires](http://www.gyrolift.fr/#section-partenaires)
 ![Fauteuil1.PNG](images/Fauteuil1.PNG "Fauteuil Gyriloft")
 
 <br/><br/><br/>
 
-### GYROLIFT. « Gyrolift, fauteuil roulant verticalisateur » [en ligne]. _Youtube._ Publié le 15 juin 2015 [Consulté le 29 mai 2019]. 1 min 58 sec. Disponible en ligne : [https://www.youtube.com/watch?v=3dnNYjydDR8](https://www.youtube.com/watch?v=3dnNYjydDR8)
+### GYROLIFT. « Gyrolift, fauteuil roulant verticalisateur » [en ligne]. _Youtube._ Publié le 15 juin 2015 [Consulté le 29 mai 2019]. 1 min 58 sec. Disponible sur le Web : [https://www.youtube.com/watch?v=3dnNYjydDR8](https://www.youtube.com/watch?v=3dnNYjydDR8)
 ![Fauteuil2.PNG](images/Fauteuil2.PNG "Gyriloft sur Youtube")
 
 <br/><br/><br/>
 
-### SUNRISE MEDICAL. « Fauteuil verticalisateur QUICKIE Q700-UP M »   [en ligne]. _Sunrise Medical._ Mise à jour le 5 mai 2019 [Consulté le 29 mai 2019]. Disponible en ligne : [https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m](https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m)
+### SUNRISE MEDICAL. « Fauteuil verticalisateur QUICKIE Q700-UP M »   [en ligne]. _Sunrise Medical._ Mise à jour le 5 mai 2019 [Consulté le 29 mai 2019]. Disponible sur le Web : [https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m](https://www.sunrisemedical.fr/fauteuils-roulants/quickie/fauteuil-roulant-verticalisateur-q700-up-m)
 ![Fauteuil3.PNG](images/Fauteuil3.PNG "Le QUICKIE Q700-UP M ")
