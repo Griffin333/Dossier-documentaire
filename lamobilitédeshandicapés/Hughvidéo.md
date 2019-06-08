@@ -7,7 +7,7 @@
 * [Le salon Handica](handica.md)
 <br/> <br/>
 ## LES DIFFÉRENTES TECHNOLOGIES
-##### 1. Les exosquelettes 
+##### 1. Les exosquelettes  
 - [Informations globales](exoprésent.md)
 - [Projet "BCI"](BCI.md)
 <br/><br/>
