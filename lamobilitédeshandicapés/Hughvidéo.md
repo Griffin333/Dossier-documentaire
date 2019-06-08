@@ -31,7 +31,7 @@
 <br/>
 
 Hugh Herr est une personne avec un handicap moteur ayant perdu ses deux jambes dans un accident.
-Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. Il donne parfois des expositions pour présenter ses nouvelles innovations.
+Aujourd'hui, il est responsable du groupe Biomécatronique du Media Lab du MIT. Il donne parfois des conférences et des représentations pour y présenter ses nouvelles innovations.
 
 <br/>
 
