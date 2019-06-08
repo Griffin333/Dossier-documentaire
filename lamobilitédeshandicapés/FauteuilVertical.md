@@ -30,7 +30,7 @@
 ----------------------------------------------------------
 <br/>
 
-Les fauteuils roulants sont une des bases de la mobilité et de l'autonomie chez les personnes portant un handicap. Les différentes innovations technologiques font évoluer ces moyen de déplacement. Les fauteuils verticalisateurs permettent de se déplacer en restant debout, ce changement de position apporte un éventail de possibilités innacessible pour un fauteuil roulant classique. 
+Les fauteuils roulants sont une des bases de la mobilité et de l'autonomie chez les personnes atteintes d'un handicap. Les différentes innovations technologiques font évoluer ces moyen de déplacement. Les fauteuils verticalisateurs permettent de se déplacer en restant debout, ce changement de position apporte un nouvel éventail de possibilités, innacessibles pour un fauteuil roulant classique. 
 
 <br/>
 
