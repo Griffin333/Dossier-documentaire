@@ -30,7 +30,7 @@
 ----------------------------------------------------------
 <br/>
 
-"ElBEE" est une petite voiture à moteur thermique accessible et conçu pour les personnes en fauteuil roulant.
+"ElBEE" est une petite voiture à moteur thermique accessible et conçue pour les personnes en fauteuil roulant.
 Cela facilite grandement la mobilité des personnes porteur de handicap et cela démontre les grandes possiblilitées d'innovations technologiques que nous pouvons concevoir.
 
 
